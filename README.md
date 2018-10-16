@@ -15,10 +15,10 @@ I think you should use an
 Sample of highight
 {% endhighlight %}
 
-```
+`
 function fancyAlert(arg) {
   if(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```
+`
